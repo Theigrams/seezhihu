@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 user_id = []
-n = 100
+n = 50
 file = open("C:\\Users\\80693\\Desktop\\User_name.txt")
 lines = file.readlines()
 file.close()
