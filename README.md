@@ -5,8 +5,8 @@ People who follow him are represented by red lines, and the person he is followi
 If they follow to each other, still use the red line.
 
 
-Top 100 people relation graph: https://theigrams.github.io/seezhihu/bundle1.html
+Top 100 people relationship graph: https://theigrams.github.io/seezhihu/bundle1.html
 
-Top 50 people relation graph: https://theigrams.github.io/seezhihu/bundle2.html
+Top 50 people relationship graph: https://theigrams.github.io/seezhihu/bundle2.html
 
-![relation](https://github.com/Theigrams/seezhihu/blob/master/relation.png)
+![relationship](https://github.com/Theigrams/seezhihu/blob/master/relation.png)
